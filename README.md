@@ -1,4 +1,37 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola! Soy Cecilia Alejandra Espinoza
+
+
+🚀 **Frontend Developer | React & TypeScript**  
+🎨 Amante del diseño moderno y la estética en la web  
+🤝 Me encanta trabajar en equipo y motivar a mis compañeros  
+
+---
+
+## 🔧 Tecnologías
+- React | Next.js | TypeScript  
+- Tailwind CSS | CSS3 | HTML5  
+- Git | GitHub | Render | Vercel  
+
+---
+
+## 🌟 Proyectos destacados
+- **FitHub – Plataforma para gimnasio 🏋️‍♀️**  
+  Frontend en React + Next.js + Tailwind CSS.  
+  Incluye reservas de turnos, login/register y roles de usuario.  
+  🔗 [Repositorio](https://github.com/Alejandraespinoza405/fithub-front)  
+
+
+- **E-commerce 🛒**  
+  Tienda online con carrito de compras y diseño responsive.  
+  🔗 [Repositorio](https://github.com/Alejandraespinoza405/mi-ecommerce.git)
+
+---
+
+## 🌱 Sobre mí
+Soy constante, responsable y perseverante.  
+Me apasiona aprender cada día un poco más y crear experiencias web con estética moderna y atractiva.
+
+
 
 <!--
 **Alejandraespinoza405/Alejandraespinoza405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
