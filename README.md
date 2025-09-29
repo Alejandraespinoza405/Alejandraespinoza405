@@ -1,4 +1,5 @@
 # 👩‍💻 ¡Hola! Soy Cecilia Alejandra Espinoza
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A61A&lines=Frontend+Developer;React+%7C+Next.js+%7C+TS)](https://git.io/typing-svg)
 
 
 🚀 **Frontend Developer | React & TypeScript**  
