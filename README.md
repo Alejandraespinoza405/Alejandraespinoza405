@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://app.lottiefiles.com/share/57950cda-7be2-49a4-8d4d-c15a1971a2ec)" width="800"/>
 </p>
 
 # 👩‍💻 ¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Soy Cecilia Alejandra Espinoza
