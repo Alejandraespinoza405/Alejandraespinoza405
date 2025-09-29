@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+</p>
+
 # 👩‍💻 ¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Soy Cecilia Alejandra Espinoza
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A61A&lines=Frontend+Developer;React+%7C+Next.js+%7C+TS)](https://git.io/typing-svg)
 
